@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Pedrobertuola
-- 👀 I’m interested in Full stack and Machine Learning
-- 🌱 I’m currently learning React and back end
-- - 📫 How to reach me: https://www.linkedin.com/in/pedro-tsaiba-bertuola-b35771222/
+- 🌱 I’m currently learning Flutter
 
 <!---
 Pedrobertuola/Pedrobertuola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
