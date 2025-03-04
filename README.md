@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Pedrobertuola
-- 🌱 I’m currently learning Flutter
+
 
 <!---
 Pedrobertuola/Pedrobertuola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
